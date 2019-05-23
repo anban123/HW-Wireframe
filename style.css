@@ -1,0 +1,62 @@
+/**
+ * Homework Due 5.23.29
+ **/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+    color: #333;
+    background: #333;
+}
+
+body {
+    font-size: 24px;
+    line-height: 32px;
+    margin: 40px;
+    }
+
+header {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: #FFA500;
+}
+
+nav {
+    padding: 20px;
+    margin-bottom: 10px;
+    background: #FFA500;
+}
+
+section {
+    width: 60%;
+    color: #394549;
+    background: #fff;
+    float: left;
+    margin-bottom: 20px;
+}
+
+article {
+    background: #394549;
+    margin: 10px, 20px, 10px, 20px;
+    color: #fff;
+}
+
+p {
+    margin: 10px, 20px, 20px, 20px;
+    background: #fff;
+}
+
+aside {
+    width: 40%;
+    color: #333;
+    background: #fff;
+    padding: 90px;
+    float: left;
+}
+
+footer {
+    padding: 20px;
+    margin: 20px, 0, 20px, 0;
+    background: #FFA500;
+    float: none;
+}
