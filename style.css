@@ -25,20 +25,20 @@ body {
 header {
     padding: 20px;
     margin-bottom: 10px;
-    background: #fff;
+    background: #ebebeb;
 }
 
 nav {
     padding: 20px;
     margin-bottom: 20px;
-    background: #fff;
+    background: #ebebeb;
 }
 
 section {
     width: 59%;
     height: 280px;
     color: #394549;
-    background: #fff;
+    background: #ebebeb;
     float: left;
     border: 1px black;
     padding-top: 10px;
@@ -46,17 +46,18 @@ section {
 }
 
 article {
-    background: #394549;
+    background: #777;
     padding: 20px;
     margin: 10px;
     margin-bottom: 10px;
-    color: #fff;
+    color: #ebebeb;
 }
 
 p {
     margin: 20px;
     margin-bottom: 5px;
-    background: #fff;
+    background: #ebebeb;
+    color: #777;
     padding: 10px;
 }
 
@@ -64,7 +65,7 @@ aside {
     width: 39%;
     height: 280px;
     color: #333;
-    background: #fff;
+    background: #ebebeb;
     padding: 10px;
     float: right;
     border: 1px black;
@@ -76,6 +77,6 @@ footer {
     margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
-    background: #fff;
+    background: #ebebeb;
     float: none; 
 }
